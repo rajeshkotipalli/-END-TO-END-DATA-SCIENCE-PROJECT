@@ -76,6 +76,8 @@ I'm proud to say this project has boosted my technical confidence, and I now fee
 <img width="1830" height="863" alt="Image" src="https://github.com/user-attachments/assets/20e75849-6024-4e29-8015-11415bb8c7d8" />
 <img width="1888" height="966" alt="Image" src="https://github.com/user-attachments/assets/47f32ded-7f89-4bb2-ad03-02d582d65822" />
 <img width="921" height="940" alt="Image" src="https://github.com/user-attachments/assets/969d4245-ca9e-4781-bbb2-bc736e426856" />
+<img width="863" height="288" alt="Image" src="https://github.com/user-attachments/assets/93c66386-7f0e-4f36-8d12-9d47d7703a5f" />
+
 
 
 
