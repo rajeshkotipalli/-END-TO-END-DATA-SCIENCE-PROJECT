@@ -72,6 +72,11 @@ This task wasn't just a coding exercise — it was a complete simulation of how 
 
 I'm proud to say this project has boosted my technical confidence, and I now feel more prepared to handle full-stack data science problems in real-world settings.
 
+<img width="1846" height="865" alt="Image" src="https://github.com/user-attachments/assets/2f762fb5-5c83-486c-b65e-cde414977c36" />
+<img width="1830" height="863" alt="Image" src="https://github.com/user-attachments/assets/20e75849-6024-4e29-8015-11415bb8c7d8" />
+<img width="1888" height="966" alt="Image" src="https://github.com/user-attachments/assets/47f32ded-7f89-4bb2-ad03-02d582d65822" />
+<img width="921" height="940" alt="Image" src="https://github.com/user-attachments/assets/969d4245-ca9e-4781-bbb2-bc736e426856" />
+
 
 
 
