@@ -8,9 +8,6 @@ INTERN ID: CTO4DG2597
 
 DOMAIN:DATA SCIENCE
 
-DURATION:4 WEEKS<img width="192" height="192" alt="logo-O35E636P" src="https://github.com/user-attachments/assets/b40e61d1-3142-4700-8430-2402b67e3b25" />
-
-
 MENTOR:NEELA SANTHOSH
 
 im happy to complete this task and be a part in codetech , coming to this task i have faced many issues during completion like first i did in  colab but later i found that it cannot have terminal , in this task i have used python as my core programming language thoughout this project , Pandas For data loading and preprocessing task,Scikit-learn (sklearn)  For building the machine learning pipeline, including preprocessing and model training,Random Forest Classifier – The machine learning algorithm used for classification.
